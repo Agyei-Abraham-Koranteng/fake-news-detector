@@ -1,0 +1,16 @@
+{
+  "model_name": "Linear SVM",
+  "timestamp": "2025-11-27T06:48:30.115134",
+  "metrics": {
+    "accuracy": 0.9966592427616926,
+    "precision": 0.9972293265132139,
+    "recall": 0.9963798977853492,
+    "f1": 0.9968044311887516,
+    "roc_auc": 0.9998678275966832
+  },
+  "data_split": {
+    "train_size": 35918,
+    "test_size": 8980,
+    "feature_count": 10000
+  }
+}
